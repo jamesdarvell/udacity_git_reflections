@@ -35,3 +35,10 @@ history organized? How would branches help?
 
 When I am working on new features or bug fixes, any time I need to divert from
 the main thrust of the effort of whatever I am working on.
+
+=======================================
+How do the diagrams help you visualize the branch structure?
+=======================================
+
+The diagrams help me to understand how the commits in the different branches
+relate to each other.
