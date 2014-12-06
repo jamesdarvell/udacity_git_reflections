@@ -19,3 +19,11 @@ is composed of all the changes that have already been commited over time.
 The working directory contains the current state of the project.
 
 The benefit of the staging area is that it helps to make logical commits.
+
+=======================================
+How can you use the staging area to make sure you have one commit per logical
+change?
+=======================================
+
+I can check with git diff before I commit to ensure all the changes only
+relate to a single change.
