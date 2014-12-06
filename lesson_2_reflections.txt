@@ -27,3 +27,11 @@ change?
 
 I can check with git diff before I commit to ensure all the changes only
 relate to a single change.
+
+=======================================
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+=======================================
+
+When I am working on new features or bug fixes, any time I need to divert from
+the main thrust of the effort of whatever I am working on.
