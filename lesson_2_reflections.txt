@@ -42,3 +42,12 @@ How do the diagrams help you visualize the branch structure?
 
 The diagrams help me to understand how the commits in the different branches
 relate to each other.
+
+=======================================
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+=======================================
+
+The result is that the changes introduced in both of the branches are made
+available in the files of the project.  This is shown in the diagram as two
+streams converging.
