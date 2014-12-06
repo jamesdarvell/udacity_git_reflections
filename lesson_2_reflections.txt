@@ -1,0 +1,21 @@
+=======================================
+What happens when you initialize a 
+repository? Why do you need to do it?
+=======================================
+
+When I initialize a repo, git sets up all
+the files and directories required to 
+maintain the state of the repo
+
+=======================================
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+=======================================
+
+The staging area is a list of files which have changed as a result of the most
+recent logical changes, and will be added to the repository.  The repository
+is composed of all the changes that have already been commited over time.
+
+The working directory contains the current state of the project.
+
+The benefit of the staging area is that it helps to make logical commits.
