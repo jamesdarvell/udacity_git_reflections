@@ -8,3 +8,22 @@ automatically stay up-to-date with your remote repository?
    Because I may need to manually resolve merge conflicts
    Because I can understand all of the upline changes and why they were made
    in the context of the code that I am working on
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+   Branch
+      A different version of the project within a repo, for instance, an
+      experimental version or a new feature.
+
+      I would use this if i were adding a new feature or fixing a bug
+
+   Clone
+      A copy of an existing repo
+      I would use this when collaborating, or if I were using another project
+      as a starting point for a new one.
+
+   Fork
+      A copy of a github repo, itself hosted on Github
+      
+      I would use this if I wanted to modify an open source project for my own
+      use.
