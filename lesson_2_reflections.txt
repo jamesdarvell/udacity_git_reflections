@@ -51,3 +51,16 @@ the diagram the way we do?
 The result is that the changes introduced in both of the branches are made
 available in the files of the project.  This is shown in the diagram as two
 streams converging.
+
+=======================================
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+=======================================
+
+pros:
+   Less time consuming
+   eliminates human error
+   allows testing before commit
+
+cons:
+   Can cause conflicts over non-problems
