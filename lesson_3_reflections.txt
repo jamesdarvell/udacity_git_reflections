@@ -2,3 +2,9 @@ When would you want to use a remote repository rather than keeping all your work
   If I was collaborating with others
   Also, I would use this as a backup
   I would use this as a way to build a portfolio
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+   Because I may need to manually resolve merge conflicts
+   Because I can understand all of the upline changes and why they were made
+   in the context of the code that I am working on
