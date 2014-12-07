@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  If I was collaborating with others
+  Also, I would use this as a backup
+  I would use this as a way to build a portfolio
