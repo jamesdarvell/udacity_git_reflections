@@ -27,3 +27,9 @@ use one instead of another?
       
       I would use this if I wanted to modify an open source project for my own
       use.
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+   I can diff it against commits in my repository to review changes I have
+   made
+
+   Git can use it to tell me when the remote repo has changed.
