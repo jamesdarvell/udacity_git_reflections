@@ -33,3 +33,13 @@ stored locally?
    made
 
    Git can use it to tell me when the remote repo has changed.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+   I could use email or a ftp folder, and automate backups on the folder.
+
+   It would be easier to remember how to modify files as there would be no vcs
+   commands to remember to use.
+
+   However, there would be many potential clashes and conflicts with document
+   changes that would ultimately cause serious problems.
