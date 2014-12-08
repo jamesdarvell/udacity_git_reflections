@@ -43,3 +43,10 @@ and what would be harder?
 
    However, there would be many potential clashes and conflicts with document
    changes that would ultimately cause serious problems.
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+   When I am working on a different feature from the other team members, I can
+   keep the commit history cleaner by working on a seperate branch from the
+   rest of the team and using pull requests to get the feature included once
+   it is ready.
